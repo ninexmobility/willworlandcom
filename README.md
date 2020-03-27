@@ -4,7 +4,7 @@ This is my resume site based on the Start Bootstrap Resume Template
 
 ## Preview
 
-[![Resume Preview](https://ninexmobility.github.io/willworlandcom/img/screenshot.png)](https://ninexmobility.github.io/willworlandcom/)
+[![Resume Preview (https://ninexmobility.github.io/willworlandcom/img/screenshot.png)](https://ninexmobility.github.io/willworlandcom/)
 
 ## [Will Worland - Resume](https://willworland.com)
 
