@@ -6,9 +6,14 @@ This is my resume site based on the Start Bootstrap Resume Template
 
 ![Resume Preview](https://ninexmobility.github.io/willworlandcom/img/screenshot.png)
 
-## [Will Worland - Resume](https://willworland.com)
+### [Will Worland - Resume](https://willworland.com)
 
-## About
+### About Will Worland
+
+Will is an I.T. Engineer focused on Enterprise Mobility, Automation, & Endpoint Management.
+To learn more visit: <https://willworland.com>
+
+### About Start Bootstrap
 
 Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
